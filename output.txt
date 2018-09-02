@@ -1,0 +1,9 @@
+In [41]: %run http_call.py
+Sat, 01 Sep 2018 23:37:37 GMT
+Sat, 01 Sep 2018 23:37:38 GMT
+Sat, 01 Sep 2018 23:37:39 GMT
+
+In [42]: %run http_async_call.py
+Sat, 01 Sep 2018 23:37:42 GMT
+Sat, 01 Sep 2018 23:37:42 GMT
+Sat, 01 Sep 2018 23:37:42 GMT
